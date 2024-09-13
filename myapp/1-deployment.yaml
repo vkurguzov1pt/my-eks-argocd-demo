@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: vickurguzov/nginx:0.0.1
+        image: vickurguzov/nginx:v0.0.1
         ports:
         - containerPort: 80
